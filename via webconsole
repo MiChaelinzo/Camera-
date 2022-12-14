@@ -1,4 +1,4 @@
-/* create me an application that record the screen */
+
 var video = document.createElement('video');
 video.setAttribute('autoplay', '');
 video.setAttribute('muted', '');
